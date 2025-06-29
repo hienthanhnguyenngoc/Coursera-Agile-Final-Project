@@ -1,6 +1,6 @@
 ---
 name: User Story
-about: Describe the user story
+about: 'Describe the user story and acceptance criteria  '
 title: ''
 labels: ''
 assignees: ''
